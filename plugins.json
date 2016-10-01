@@ -309,5 +309,11 @@
 			"jarName": "JoeMarriage.jar",
 			"configName": "JoeMarriage"
 		}
+		{
+        		"name": "SparkUHC",  
+        		"desc": "SparkUHC allows you to run fully automated uhc games on your server",  
+        		"jarName": "SparkUHC.jar",  
+        		"configName": "SparkUHC"  
+                }
 	]
 }
