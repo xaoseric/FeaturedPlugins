@@ -308,7 +308,7 @@
 			"desc": "Added marriages and divorces to your server.",
 			"jarName": "JoeMarriage.jar",
 			"configName": "JoeMarriage"
-		}
+		},
 		{
         		"name": "SparkUHC",  
         		"desc": "SparkUHC allows you to run fully automated uhc games on your server",  
